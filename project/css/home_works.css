@@ -1,9 +1,7 @@
 .parent_block {
     position: relative;
     width: 500px;
-    height: 500px;
-    border: 1px solid black;
-    overflow: hidden;
+    height: 100px;
     /*background-color: #f0f0f0;*/
 }
 .child_block {
